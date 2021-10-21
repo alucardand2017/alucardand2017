@@ -1,5 +1,5 @@
-### Olá, você acaba de entrar no perfil estudante do Anderson Nascimento 👋
-
+## Olá, você acaba de entrar no perfil estudante do Anderson Nascimento 👋
+### Agumas coisas sobre mim:
 - 🔭 Atualmente desenvolvendo projetos em Unity 2D e desenvolvimento CSharp para Windows.
 - 🌱 Atualmente estudando linguagem CSharp.
 - 👯 Procuro colaborar com projetos para fins didáticos.
@@ -18,7 +18,7 @@
      <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-  ##
+  ## Pode me encontrar no seguintes meios:
   
 <div>
   <a href="https://t.me/joinchat/hbUGqtZ8xA80NmE5" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
