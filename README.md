@@ -1,7 +1,7 @@
 ## Olá, você acaba de entrar no perfil estudante do Anderson Nascimento 👋
 ### Agumas coisas sobre mim:
 - 🔭 Atualmente desenvolvendo projetos em Unity 2D e desenvolvimento CSharp para Windows.
-- 🌱 Atualmente estudando linguagem CSharp.
+- 🌱 Atualmente estudando linguagem CSharp, Java, JavaScript, HTML5, CSS, JQuery, Ajax (JQuery), .
 - 👯 Procuro colaborar com projetos para fins didáticos.
 - 🤔 Colaborações e dicas por parte dos visitantes sempre são bem vindas para esse estudante que vos fala.
 - 💬 Você me encontra no telegram, discord, whatsapp, twitter, youtube ou ainda pelo email anderson_ns5@hotmail.com 
