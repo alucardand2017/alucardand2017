@@ -1,10 +1,13 @@
 ## Olá, você acaba de entrar no perfil estudante do Anderson Nascimento 👋
-### Agumas coisas sobre mim:
-- 🔭 Atualmente estou desenvolvendo projetos em CSharp. Cursando Engenharia de Software 3º ano .
-- 🌱 Atualmente estudando linguagens CSharp e Java.
+### Um panorama:
+- 🔭 Desenvolvendo projetos em CSharp.
+- 🔭 Cursando Engenharia de Software 3º ano .
+- 🔭 Cursando Pós Graduação em Machine Learning e Inteligência Artificial.
+- 🌱 Estudando linguagens CSharp e Java (com APIRestfull; Aplicações Stand alone; estudos de caso) .
+- 🌱 Estudando linguagens Python e R para Análise de Dados, Machine Learning e BI (iniciante).
 - 👯 Procuro colaborar com projetos para fins didáticos e filantrópicos.
-- 🤔 Colaborações e dicas por parte dos visitantes sempre são bem vindas para esse estudante que vos fala.
-- 💬 Você me encontra no telegram, discord, whatsapp, twitter, youtube ou ainda pelo email anderson_ns5@hotmail.com 
+- 🤔 Colaborações e dicas por parte dos visitantes sempre são bem vindas.
+- 💬 Você me encontra no telegram, Linkedin, Whatsapp ou pelo email anderson_ns5@hotmail.com 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
