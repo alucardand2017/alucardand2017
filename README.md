@@ -2,8 +2,9 @@
 ### Um panorama:
 - 🔭 Desenvolvendo projetos em CSharp.
 - 🔭 Cursando Engenharia de Software 3º ano .
-- 🔭 Cursando Pós Graduação em Machine Learning e Inteligência Artificial.
-- 🌱 Estudando linguagens CSharp e Java (com APIRestfull; Aplicações Stand alone; estudos de caso) .
+- 🔭 Pós Graduado em Machine Learning e Inteligência Artificial.
+- 🔭 Cursando Pós Graduação em Análise de Dados.
+- 🌱 Estudando linguagens CSharp e Java ( ASPNetCore; APIRestfull; Aplicações Stand alone; estudos de caso) .
 - 🌱 Estudando linguagens Python e R para Análise de Dados, Machine Learning e BI (iniciante).
 - 👯 Procuro colaborar com projetos para fins didáticos e filantrópicos.
 - 🤔 Colaborações e dicas por parte dos visitantes sempre são bem vindas.
